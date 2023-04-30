@@ -1,4 +1,4 @@
-# Revit-Autofiller from schematic design to design development
+# Revit-Autofiller: from Schematic Design to Design Development
 
 Architecture design has several phases, starting from schematic design, design development, construction documents, to bidding and construction administration. Basicly, it is an idea evolving through different phases into a product. With the help of machine learning, it is possible to auto-complete parts of the project so that designers can focus more on the individual cases and the creative work.
 
