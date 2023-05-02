@@ -11,7 +11,10 @@ The idea is to use the information from previous projects to speed up the design
 
 We extracted with data from Revit using Pyrevit and Revit API. Then train a Naive Bayes classifier based on the data extracted. Next, we use the model to predict on new project data and load it back in the Revit model. 
 
-Currently we have a general accuracy of 90% on the prediction so the value still has to be verified by human case by case to be applied on an architectural project. This work process has a lot of potential and can be applied on different type of elements. 
+Currently we have a general accuracy of 90% on the prediction so the value still has to be verified by human case by case to be applied on an architectural project. This work process has a lot of potential and can be applied on different type of elements.
+
+![heatmap](https://user-images.githubusercontent.com/17108049/235639972-410501c7-7ba9-4806-800b-79b8ced75316.png)
+ 
 
 
 
