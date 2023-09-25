@@ -14,3 +14,6 @@ After trying out different input parameters, we find out that using the room nam
 Currently we have a general accuracy of 90% on the prediction so the value still has to be verified by human case by case to be applied on an architectural project. This work process has a lot of potential and can be applied on different type of elements.
 
  ![heatmap_new_tb_material](https://github.com/shicongcao/ML-Revit-Optimization/assets/17108049/b4f4734d-a099-4f75-922b-f979456ecbb0)
+
+ ![image](https://github.com/shicongcao/ML-Revit-Optimization/assets/17108049/5c1370c6-3bfc-4e2e-867d-57949a18957c)
+
